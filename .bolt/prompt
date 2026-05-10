@@ -1,1 +1,5 @@
-LENS is a privacy-first, local-first evidence/archive system for sensitive exports, especially Facebook/Meta. Source files are read-only evidence. Never imply cloud upload, accounts, auth, remote processing, source mutation, fake repair, fake analysis, or silent success. Clearly label mock/demo data. Keep warnings, uncertainty, missing/unsupported states, provenance, source boundaries, and local-only status visible. UI: premium dark archive/dossier, beautiful, responsive, accessible, high-contrast, beginner-readable, developer-auditable. Stack: React, TSX, Tailwind, hooks, lucide-react only unless necessary. Placeholder actions must say Demo only, Not connected, Coming soon, or Requires implementation.
+For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+
+By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+
+Use icons from lucide-react for logos.
